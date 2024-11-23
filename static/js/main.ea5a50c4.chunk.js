@@ -1636,7 +1636,7 @@
                                     className: "field"
                                 }, "New Album"), n.a.createElement("p", {
                                     className: "title"
-                                }, "\u2018Gudang Garam\u2019 \ubc1c\ub9e4!"), n.a.createElement("p", {
+                                }, "\u2018Diasku\u2019 \ubc1c\ub9e4!"), n.a.createElement("p", {
                                     className: "text"
                                 }, "Perasaanku 2 nsemakin dalam ", n.a.createElement("img", {
                                     src: "/imgs/common/icon-music.svg",

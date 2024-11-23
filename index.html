@@ -111,9 +111,17 @@
     <link rel="stylesheet" href="css/december/cookie-agree.css" />
     <link rel="stylesheet" href="css/december/cookie-popup.css" />
     <link rel="stylesheet" href="css/december/style.css" />
-    <link rel="stylesheet" href="css/style.css" />
-    <link href="static/css/2.2ad5b232.chunk.css" rel="stylesheet" />
-    <link href="static/css/main.5a152f57.chunk.css" rel="stylesheet" />
+    <script>
+      // Fungsi untuk menambahkan timestamp ke URL file
+      function addTimestamp(url) {
+          return url + '?v=' + new Date().getTime();
+      }
+
+      // Tambahkan link CSS dengan timestamp
+      document.write('<link rel="stylesheet" href="' + addTimestamp("css/style.css") + '" />');
+      document.write('<link rel="stylesheet" href="' + addTimestamp("static/css/2.2ad5b232.chunk.css") + '" />');
+      document.write('<link rel="stylesheet" href="' + addTimestamp("static/css/main.5a152f57.chunk.css") + '" />');
+  </script>
   </head>
   <body>
     <div id="root"></div>
@@ -207,8 +215,11 @@
         t();
       })([]);
     </script>
-    <script src="static/js/2.1212f2da.chunk.js"></script>
-    <script src="static/js/main.ea5a50c4.chunk.js"></script>
+    <script>
+      // Tambahkan script JS dengan timestamp
+      document.write('<script src="' + addTimestamp("static/js/2.1212f2da.chunk.js") + '"></' + 'script>');
+      document.write('<script src="' + addTimestamp("static/js/main.ea5a50c4.chunk.js") + '"></' + 'script>');
+  </script>
     <script
       async=""
       src="https://www.googletagmanager.com/gtag/js?id=G-1NZG5LVWG8"

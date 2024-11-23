@@ -1,0 +1,319 @@
+html {
+    font-family: 'SF Pro Display', 'Noto Sans KR', sans-serif;
+}
+
+html,
+body,
+#root {
+    height: 100%;
+    /*background-color: #000;*/
+}
+
+#container.december {
+    height: 100%;
+}
+
+#container.december header {
+    display: block;
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
+
+#container.december footer {
+    display: block;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+#container.december .pc {
+    display: block;
+}
+
+#container.december .mb {
+    display: none;
+}
+
+#container.december main {
+    width: 100%;
+    height: 100%;
+}
+
+#container.december main>.con {
+    width: 100%;
+    height: 100%;
+}
+
+#container.december main>.con>section {
+    width: 100%;
+    height: 100%;
+    line-height: 0;
+    position: relative;
+}
+
+#container.december main>.con>section.pc {
+    position: relative;
+    height: auto;
+}
+
+#container.december main>.con>section img {
+    max-width: 100%;
+}
+
+#container.december section {
+    overflow-x: hidden;
+}
+
+#container.december section video {
+    width: 100%;
+}
+
+#container.december .sns-bt {
+    display: flex !important;
+    justify-content: right;
+    padding: 40px;
+    gap: 25px;
+}
+
+#container.december .sns-bt .img img {
+    width: 32px;
+    cursor: pointer;
+}
+
+#container.december .sns-bt .youtube img {
+    width: 36px;
+}
+
+#container.december .sns-bt .twitter img {
+    width: 28px;
+}
+
+#container.december .sns-bt .instagram img {
+    width: 26px;
+}
+
+#container.december .sns-bt .facebook img {
+    width: 26px;
+}
+
+#container.december footer.footer {
+    padding: 20px;
+}
+
+#container.december footer.footer img {
+    width: 4.3333333333vw;
+    cursor: pointer;
+}
+
+.popup {
+    display: block;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.9);
+    z-index: 100;
+}
+
+.popup>.con {
+    display: block;
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.popup>.con>.swiper {
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.popup>.con>.swiper>.swiper-wrapper {}
+
+.popup>.con>.swiper>.swiper-wrapper>.swiper-slide {
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.popup>.con>.swiper>.swiper-wrapper>.swiper-slide img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: 100%;
+    transform: translate(-50%, -50%);
+    object-fit: contain;
+}
+
+.popup>.con>.btn-slide {
+    display: block;
+    position: absolute;
+    width: 23px;
+    height: 69px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    z-index: 5;
+}
+
+.popup>.con>.btn-slide-prev {
+    left: 20px;
+    background-image: url('./../../imgs/december/icon-right-arrow.png');
+
+}
+
+.popup>.con>.btn-slide-next {
+    right: 20px;
+    background-image: url('./../../imgs/december/icon-left-arrow.png');
+}
+
+.popup>.con>.btn-download {
+    display: block;
+    position: absolute;
+    right: 85px;
+    top: 40px;
+    cursor: pointer;
+    z-index: 120;
+}
+
+.popup>.con>.btn-download>img {
+    width: 25.55px;
+}
+
+.popup>.con>.btn-close {
+    display: block;
+    position: absolute;
+    right: 40px;
+    top: 40px;
+    cursor: pointer;
+    z-index: 120;
+}
+
+.popup>.con>.btn-close>img {
+    width: 20px;
+}
+
+
+
+@media screen and (max-width:900px) {
+    #container.december .mb {
+        display: block !important;
+    }
+
+    #container.december .pc {
+        display: none !important;
+    }
+    
+    #container.december main>.con>section.mb {
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        gap: 40px 0;
+    }
+    
+    #container.december main>.con>section img {
+        height: auto;
+    }
+    
+    #container.december footer {
+        position: relative;
+    }
+
+    #container.december footer .mb {
+        text-align: center;
+    }
+
+    #container.december footer.footer {
+        padding: 0 0 4.4444444444vw 0;
+    }
+
+    #container.december footer.footer img {
+        width: 27.5555555556vw;
+    }
+
+    #container.december footer.footer>ul {
+        display: flex !important;
+        justify-content: center;
+        gap: 4.4444444444vw;
+        padding: 0 0 4.8888888889vw 0;
+    }
+
+    #container.december .sns-bt .img img {
+        width: 6.2vw;
+    }
+
+    #container.december .sns-bt .youtube img {
+        width: 7.2222222222vw;
+    }
+
+    #container.december .sns-bt .twitter img {
+        width: 5.6666666667vw;
+    }
+
+    #container.december .sns-bt .instagram img {
+        width: 5.2222222222vw;
+    }
+
+    #container.december .sns-bt .facebook img {
+        width: 5.2222222222vw;
+    }
+
+    .popup {}
+
+    .popup>.con {
+        left: 50%;
+        top: 50%;
+        width: calc(100% - 40px);
+        height: calc(100% - 40px);
+        transform: translate(-50%, -50%);
+    }
+
+    .popup>.con>.swiper {}
+
+    .popup>.con>.swiper>.swiper-wrapper {}
+
+    .popup>.con>.swiper>.swiper-wrapper>.swiper-slide {}
+
+    .popup>.con>.btn-download {
+        right: 40px;
+        top: 0;
+    }
+
+    .popup>.con>.btn-close {
+        right: 0;
+        top: 0;
+    }
+
+    .popup>.con>.btn-slide {
+        width: 11px;
+        height: 35px;
+    }
+
+    .popup>.con>.btn-slide-prev {
+        left: 10px;
+
+    }
+
+    .popup>.con>.btn-slide-next {
+        right: 10px;
+    }
+
+    .popup>.con>.btn-close>img {
+        width: 20px;
+    }
+}

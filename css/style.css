@@ -1,0 +1,17 @@
+@media screen and (min-width: 769px) {
+  .swiper {
+    height: 360px;
+  }
+}
+
+@media screen and (min-device-width: 481px) and (max-device-width: 768px) {
+  .swiper {
+    height: 476px;
+  }
+}
+
+@media only screen and (max-device-width: 480px) {
+  .swiper {
+    height: 423px;
+  }
+}

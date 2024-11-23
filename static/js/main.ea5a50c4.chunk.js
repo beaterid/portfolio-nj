@@ -1,24 +1,24 @@
 (this.webpackJsonpnewjeans = this.webpackJsonpnewjeans || []).push([
     [0], {
-        226: function(e) {
+        226: function (e) {
             e.exports = JSON.parse('{"/omg/newjeans/01/a8ag3":"LYrMMqBSvN4","/omg/minji/01/b9yn1":"6pfhNzNx1r4","/omg/hanni/01/c9dz6":"Ht7Gl8A0h5c","/omg/danielle/01/d8rm7":"JJ-KaW8re00","/omg/haerin/01/e1ys3":"YvAC1ksVW2w","/omg/hyein/01/f6vv8":"54TIaRY-VUw","/omg/newjeans/02/g1or7":"py0nupvouHo","/omg/minji/02/h9ua1":"PlXcrcMdRbY","/omg/hanni/02/i8iw9":"pk0ztv1xuk4","/omg/danielle/02/z1xm6":"Ju0pLZpx2mE","/omg/haerin/02/k4me6":"S1ofynjA5os","/omg/hyein/02/l7lp2":"5lFFK361BqM","/omg/newjeans/03/m8bs9":"I38-4oVR9cU","/omg/minji/03/n1nd6":"aS5Gaz8XzJs","/omg/hanni/03/o1yf7":"N_jZ2UYz3Eg","/omg/danielle/03/p3zr4":"mOHPwogkkiI","/omg/haerin/03/q6tl9":"hjCkBEmmy5s","/omg/hyein/03/r2qk8":"LZQ8bjamBB4","/omg/newjeans/04/s9uh7":"AGVa7vu7MK4","/omg/minji/04/t7ay5":"OnohUE3jH_E","/omg/hanni/04/u2zo6":"qVNUmiqR5l0","/omg/danielle/04/v9pf3":"vr6cxpWohCk","/omg/haerin/04/w3at7":"icjM7GJrA8A","/omg/hyein/04/x1hm9":"07-b5i8nY9s","/omg/newjeans/05/y5ws4":"ncGF1QWGcpM","/omg/minji/05/z2el3":"1om5ta_Lozw","/omg/hanni/05/f5em8":"_DGtPd8jyPk","/omg/danielle/05/g8gh4":"Y0bCTPcyXB0","/omg/haerin/05/h1ei1":"Uy3V0tVDDx0","/omg/hyein/05/i0sl3":"YtTZeGVvf84","/omg/newjeans/06/z7vb1":"gJCaeYXE41E","/omg/minji/06/k8ir7":"PQdHtx47YPM","/omg/hanni/06/l1wt2":"5P5Rd78DWh4","/omg/danielle/06/m7ym9":"1_W0NBWh6bg","/omg/haerin/06/n6bi9":"rXbNQQn5nxw","/omg/hyein/06/o3ro8":"AzdJ9Ng7exw","/omg/newjeans/07/p8ws6":"YRc_XJkD5YU","/omg/minji/07/q6vx1":"IdwXCMfh8S4","/omg/hanni/07/r2ge1":"TWqjoRYMhB4","/omg/danielle/07/s1xh3":"3l2isMUoqCU","/omg/haerin/07/t8zd7":"7yBCRIBV5s8","/omg/hyein/07/u8pv3":"SNPJ0v5di3c","/omg/newjeans/08/v6tc9":"6xs1-rquy_I","/omg/minji/08/w7pr9":"Mf_W0zpsnR0","/omg/hanni/08/x8dx2":"Dqj_dXn7WZs","/omg/danielle/08/y1fw1":"C3WcHdjKmJ8","/omg/haerin/08/z3ho2":"flrgzdlkMcY","/omg/hyein/08/k2fm5":"s6jDgfzNY5w","/omg/newjeans/09/l4nq2":"m23YxjfueXU","/omg/minji/09/m9aj6":"LA4QaiHh8hQ","/omg/hanni/09/n8ai6":"ooITYR_EuCM","/omg/danielle/09/o3kg3":"lovH-fLZVhA","/omg/haerin/09/p6rf2":"UBooPLvfQ0w","/omg/hyein/09/q3lt1":"81cBjmv_-2I","/omg/newjeans/10/r5nk5":"Z6h1YaKCZZg","/omg/minji/10/s9mp7":"0Gmv5bMKNLc","/omg/hanni/10/t1ry6":"dQBHLm3AgFU","/omg/danielle/10/u9yv5":"HYBZ-oKCyVc","/omg/haerin/10/v8mz6":"vV2ud_O8dUg","/omg/hyein/10/w5me4":"scffF5G7YNU","/omg/newjeans/11/x2ac4":"8ShEVf_nmc0","/omg/minji/11/y2ma8":"ad9FkpWVcvo","/omg/hanni/11/z2uq6":"ze9upXUOrg8","/omg/danielle/11/p0ht6":"FKt08AXwtyM","/omg/haerin/11/q1ya9":"DSEA74ZyoyM","/omg/hyein/11/r9hv9":"ePO8EO9GR60","/omg/newjeans/12/s1pa6":"8VzggL809Wo","/omg/minji/12/t7nk3":"2Kht-vZ85dk","/omg/hanni/12/u9gz7":"Z7z6WPRhxiQ","/omg/danielle/12/v6yl2":"-DMJqgRiupM","/omg/haerin/12/w9vj8":"pZmlxDaItrk","/omg/hyein/12/x0nn6":"Mbed6bQntlQ","/omg/newjeans/13/y4mn3":"YQ09onpLk90","/omg/minji/13/z7jy7":"7hgaTcAEyN4","/omg/hanni/13/u8cj1":"eYfgY6hLnug","/omg/danielle/13/v1ap1":"EtxVhDe8LJM","/omg/haerin/13/w7yf8":"Hoi1Ex9BWds","/omg/hyein/13/x1za8":"cjcKlGBuaZ0","/omg/newjeans/14/y4dc9":"N22UpgZhQMY","/omg/minji/14/z5fd1":"9HKXHSqIRMY","/omg/hanni/14/a2wr3":"WJfT4eVEhdA","/omg/danielle/14/b4yk9":"BcGG-DKRGS4","/omg/haerin/14/c7jg6":"rMvt3gBwNg8","/omg/hyein/14/d5kx9":"z4LpM0rdzMk","/omg/newjeans/15/e6ef7":"VOeF_2Q-teA","/omg/minji/15/f6ro4":"4984mFU-rTs","/omg/hanni/15/g7qx5":"-53ymvtyjVQ","/omg/danielle/15/h3tl4":"YE9Hki7td1A","/omg/haerin/15/i7ai4":"R96MVHfeW-0","/omg/hyein/15/z8vy1":"LebimQ3I6jg","/omg/newjeans/16/k2se8":"gRkZzlmCp_U","/omg/minji/16/l5pq5":"gBh35zN0OKU","/omg/hanni/16/m1gp8":"OrZ0hnnLshw","/omg/danielle/16/n2fb7":"Fh0NxgTZhDE","/omg/haerin/16/o4zx1":"FTGQEm_1nkc","/omg/hyein/16/p7xt1":"VM2UoaU3y_I","/omg/newjeans/17/q4gq7":"KC39DBMdcmA","/omg/minji/17/r9si7":"H3KEoqdE2qI","/omg/hanni/17/s1nh3":"wXxbIHCecGE","/omg/danielle/17/t5ux1":"yvvb-WFCy20","/omg/haerin/17/u6ke9":"SQc7CqWt-SM","/omg/hyein/17/v3cj6":"g1D-CMzGGyo","/omg/newjeans/18/w4hq9":"u9WEO6pmWa0","/omg/minji/18/x0ml4":"tXbD7m9u_oM","/omg/hanni/18/y0vp3":"r7xdYo-IKx4","/omg/danielle/18/z9ex6":"NRXOPpvSVmQ","/omg/haerin/18/k7ay1":"w0vQ42-eZoA","/omg/hyein/18/l9vm3":"7xw1_5EimCo","/omg/newjeans/19/m9xm2":"Z3aUlGI0jnc","/omg/minji/19/n6lv7":"pH-k3E94-pA","/omg/hanni/19/o7oe2":"0YpW_NNMfds","/omg/danielle/19/p6qa7":"6MUX5kV_7KQ","/omg/haerin/19/q4ji4":"g_2PH7N4klg","/omg/hyein/19/r5zx9":"JBfe_PGHFYc","/omg/newjeans/20/s6ha5":"PSncVeCsypM","/omg/minji/20/t1wk6":"C_iRR-Kse7A","/omg/hanni/20/u2nw9":"gMsXtAAnyJo","/omg/danielle/20/v3ji4":"nnLVRa1zXto","/omg/haerin/20/w2wt3":"OSlbg7-xI2Q","/omg/hyein/20/x7wk5":"ym9QS-OY5AA","/omg/newjeans/21/y2sk8":"87cODRpZAog","/omg/minji/21/d8bs1":"r2hCZz6d2a8","/omg/hanni/21/h6qp2":"nwxea6Nf6kg","/omg/danielle/21/u2lv8":"aIPihPQHhgQ","/omg/haerin/21/e7lb9":"Vg_9aRRUxy0","/omg/hyein/21/i1fx4":"0_gQATLHC2Y","/omg/newjeans/22/o1rf2":"OUtsNZcaXwI","/omg/minji/22/x1qn8":"OuuOn9ez5fU","/omg/hanni/22/f7zn4":"rZddWosI9L0","/omg/danielle/22/s0zy2":"S8Uxf2g6uHU","/omg/haerin/22/j0kx1":"cfbegZVNrH4","/omg/hyein/22/n3dm4":"T90GyEDOjn8","/omg/newjeans/23/q9um6":"08hnCGTxHf8","/omg/minji/23/f4el7":"unnduae8Th4","/omg/hanni/23/x2if2":"IByZ8rFsp7E","/omg/danielle/23/p2qy7":"b8iXLvJ4Xi4","/omg/haerin/23/w2wt8":"6KBOmsGBTfA","/omg/hyein/23/v6qn1":"6rCNLGLiCJY","/omg/newjeans/24/n3wx7":"x95HWANtipk","/omg/minji/24/x5ju5":"wdxDS6pPV3k","/omg/hanni/24/z0ov9":"rVZbkJwoU3M","/omg/danielle/24/s3ki4":"zen58vkErOY","/omg/haerin/24/q5vw5":"EKBLVicj8JM","/omg/hyein/24/k0td4":"NWoJ0ppq_sE","/omg/newjeans/25/r4bs4":"ZHaBjYErgIg","/omg/minji/25/m0jm3":"KJQA_DpHuBo","/omg/hanni/25/a6xi9":"L2-MM6rDpZw","/omg/danielle/25/d1vh3":"jpyNnAhff-A","/omg/haerin/25/r5bq2":"uEdq8KYJk3Y","/omg/hyein/25/p0vj8":"Nu1ZqFTHTC4"}')
         },
-        231: function(e, a, t) {
+        231: function (e, a, t) {
             e.exports = t(452)
         },
-        347: function(e, a) {},
-        378: function(e, a) {},
-        380: function(e, a) {},
-        381: function(e, a) {},
-        387: function(e, a) {},
-        389: function(e, a) {},
-        392: function(e, a) {},
-        394: function(e, a) {},
-        414: function(e, a) {},
-        430: function(e, a) {},
-        433: function(e, a) {},
-        449: function(e, a, t) {},
-        452: function(e, a, t) {
+        347: function (e, a) { },
+        378: function (e, a) { },
+        380: function (e, a) { },
+        381: function (e, a) { },
+        387: function (e, a) { },
+        389: function (e, a) { },
+        392: function (e, a) { },
+        394: function (e, a) { },
+        414: function (e, a) { },
+        430: function (e, a) { },
+        433: function (e, a) { },
+        449: function (e, a, t) { },
+        452: function (e, a, t) {
             "use strict";
             t.r(a);
             t(232), t(256);
@@ -65,16 +65,16 @@
                 N = t(94),
                 h = t.n(N);
             const w = (e, a, t) => {
-                    t || (t = new Date).setDate(t.getDate() + 1);
-                    const l = {};
-                    l.expires = t, l.path = "/", h.a.save(e, a, l)
-                },
+                t || (t = new Date).setDate(t.getDate() + 1);
+                const l = {};
+                l.expires = t, l.path = "/", h.a.save(e, a, l)
+            },
                 d = e => h.a.load(e),
                 E = e => {
                     w("__NJ_AGREE", "Y")
                 },
                 f = ["en", "ko"],
-                J = function() {
+                J = function () {
                     let e = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : "en";
                     const a = navigator.language || navigator.userLanguage,
                         t = a.split("-")[0];
@@ -87,8 +87,8 @@
                     t(a)
                 }, []);
                 const N = e => {
-                        "all" === e ? (m(!s), u(!1)) : "performance" === e && (u(!i), m(!1))
-                    },
+                    "all" === e ? (m(!s), u(!1)) : "performance" === e && (u(!i), m(!1))
+                },
                     h = (e, a) => {
                         p(!c)
                     };
@@ -512,59 +512,59 @@
             var H = e => n.a.createElement(k, e),
                 G = t(223);
             var B = e => {
-                    const {
-                        videoId: a
-                    } = e;
-                    return n.a.createElement("div", {
-                        id: "omg-card"
-                    }, n.a.createElement("div", {
-                        className: "title-text"
-                    }, "MESSAGE CARD FROM NEWJEANS"), n.a.createElement("div", {
-                        className: "wrap"
-                    }, n.a.createElement("div", {
-                        className: "title"
-                    }, n.a.createElement("div", {
-                        className: "text"
-                    }, "MESSAGE CARD FROM NEWJEANS"), n.a.createElement("div", {
-                        className: "deco-mb"
-                    }, n.a.createElement("div", {
-                        className: "col col-l"
-                    }, n.a.createElement("img", {
-                        src: "/imgs/omg/mb/deco-l.png",
-                        alt: "bunnies"
-                    })), n.a.createElement("div", {
-                        className: "col col-r"
-                    }, n.a.createElement("img", {
-                        src: "/imgs/omg/mb/deco-r.png",
-                        alt: "bunnies"
-                    })))), n.a.createElement("div", {
-                        className: "video-wrap"
-                    }, n.a.createElement("div", {
-                        className: "video"
-                    }, n.a.createElement("img", {
-                        className: "deco-l",
-                        src: "/imgs/omg/pc/bunnies-l.png",
-                        alt: "bunnies"
-                    }), n.a.createElement(G.a, {
-                        className: "video",
-                        videoId: a,
-                        opts: {},
-                        onReady: e => {
-                            console.log("onReady Youtube")
-                        }
-                    }), n.a.createElement("img", {
-                        className: "deco-r",
-                        src: "/imgs/omg/pc/bunnies-r.png",
-                        alt: "bunnies"
-                    }))), n.a.createElement("div", {
-                        className: "noti-wrap"
-                    })), n.a.createElement("div", {
-                        className: "mb-logo"
-                    }, n.a.createElement("img", {
-                        src: "/imgs/omg/mb/ador-logo.png",
-                        alt: "logo"
-                    })))
-                },
+                const {
+                    videoId: a
+                } = e;
+                return n.a.createElement("div", {
+                    id: "omg-card"
+                }, n.a.createElement("div", {
+                    className: "title-text"
+                }, "MESSAGE CARD FROM NEWJEANS"), n.a.createElement("div", {
+                    className: "wrap"
+                }, n.a.createElement("div", {
+                    className: "title"
+                }, n.a.createElement("div", {
+                    className: "text"
+                }, "MESSAGE CARD FROM NEWJEANS"), n.a.createElement("div", {
+                    className: "deco-mb"
+                }, n.a.createElement("div", {
+                    className: "col col-l"
+                }, n.a.createElement("img", {
+                    src: "/imgs/omg/mb/deco-l.png",
+                    alt: "bunnies"
+                })), n.a.createElement("div", {
+                    className: "col col-r"
+                }, n.a.createElement("img", {
+                    src: "/imgs/omg/mb/deco-r.png",
+                    alt: "bunnies"
+                })))), n.a.createElement("div", {
+                    className: "video-wrap"
+                }, n.a.createElement("div", {
+                    className: "video"
+                }, n.a.createElement("img", {
+                    className: "deco-l",
+                    src: "/imgs/omg/pc/bunnies-l.png",
+                    alt: "bunnies"
+                }), n.a.createElement(G.a, {
+                    className: "video",
+                    videoId: a,
+                    opts: {},
+                    onReady: e => {
+                        console.log("onReady Youtube")
+                    }
+                }), n.a.createElement("img", {
+                    className: "deco-r",
+                    src: "/imgs/omg/pc/bunnies-r.png",
+                    alt: "bunnies"
+                }))), n.a.createElement("div", {
+                    className: "noti-wrap"
+                })), n.a.createElement("div", {
+                    className: "mb-logo"
+                }, n.a.createElement("img", {
+                    src: "/imgs/omg/mb/ador-logo.png",
+                    alt: "logo"
+                })))
+            },
                 P = t(226);
             var x = e => {
                 const {
@@ -646,58 +646,58 @@
                 "0702": "/imgs/bunnies-camp/bunniescamp_day2_love_u_bunnies.jpg"
             };
             var R = e => {
-                    const {
-                        history: a
-                    } = e, [t, r] = Object(l.useState)(!1), [o, m] = Object(l.useState)(null), {
-                        id: i
-                    } = Object(s.g)();
-                    return Object(l.useEffect)(() => {
-                        const e = A[i];
-                        e ? (console.log("newCertificateUrl", e), m(e), r(!0)) : a.push("/")
-                    }, []), n.a.createElement("div", {
-                        id: "container",
-                        className: "bunnies-camp"
-                    }, t ? n.a.createElement(D, {
-                        certificateUrl: o
-                    }) : null)
-                },
+                const {
+                    history: a
+                } = e, [t, r] = Object(l.useState)(!1), [o, m] = Object(l.useState)(null), {
+                    id: i
+                } = Object(s.g)();
+                return Object(l.useEffect)(() => {
+                    const e = A[i];
+                    e ? (console.log("newCertificateUrl", e), m(e), r(!0)) : a.push("/")
+                }, []), n.a.createElement("div", {
+                    id: "container",
+                    className: "bunnies-camp"
+                }, t ? n.a.createElement(D, {
+                    certificateUrl: o
+                }) : null)
+            },
                 L = t(30);
             t(135);
             var M = e => {
-                    const {
-                        swiperParams: a
-                    } = e, {
-                        slideBtnPrevRef: t,
-                        slideBtnNextRef: l,
-                        onAfterInitSlick: r,
-                        onSlideChangeSlick: o
-                    } = e, {
-                        imageList: s
-                    } = e;
-                    return n.a.createElement("div", {
-                        className: "popup"
-                    }, n.a.createElement("div", {
-                        className: "con"
-                    }, n.a.createElement(L.a, Object.assign({}, a, {
-                        className: "slider",
-                        spaceBetween: 10,
-                        onAfterInit: r,
-                        onSlideChange: o,
-                        loop: !0
-                    }), s.map((e, a) => n.a.createElement(L.b, {
-                        className: "slide",
-                        key: a
-                    }, n.a.createElement("img", {
-                        src: e.url,
-                        alt: ""
-                    })))), n.a.createElement("div", {
-                        ref: t,
-                        className: "btn-slide btn-slide-prev"
-                    }), n.a.createElement("div", {
-                        ref: l,
-                        className: "btn-slide btn-slide-next"
-                    })))
-                },
+                const {
+                    swiperParams: a
+                } = e, {
+                    slideBtnPrevRef: t,
+                    slideBtnNextRef: l,
+                    onAfterInitSlick: r,
+                    onSlideChangeSlick: o
+                } = e, {
+                    imageList: s
+                } = e;
+                return n.a.createElement("div", {
+                    className: "popup"
+                }, n.a.createElement("div", {
+                    className: "con"
+                }, n.a.createElement(L.a, Object.assign({}, a, {
+                    className: "slider",
+                    spaceBetween: 10,
+                    onAfterInit: r,
+                    onSlideChange: o,
+                    loop: !0
+                }), s.map((e, a) => n.a.createElement(L.b, {
+                    className: "slide",
+                    key: a
+                }, n.a.createElement("img", {
+                    src: e.url,
+                    alt: ""
+                })))), n.a.createElement("div", {
+                    ref: t,
+                    className: "btn-slide btn-slide-prev"
+                }), n.a.createElement("div", {
+                    ref: l,
+                    className: "btn-slide btn-slide-next"
+                })))
+            },
                 q = t(27);
             const z = [{
                 url: "/imgs/howsweet/photo/NJ_HowSweet_34.jpg",
@@ -1569,182 +1569,182 @@
                 return Object(l.useEffect)(() => {
                     t ? document.querySelector(".btn-play").classList.add("playing") : document.querySelector(".btn-play").classList.remove("playing")
                 }),
-                
-                
-                // PLAYER
-                n.a.createElement(n.a.Fragment, null, n.a.createElement("div", {
-                    className: "player"
-                }, n.a.createElement("div", {
-                    className: "player-thumb"
-                }, n.a.createElement("img", {
-                    src: "/imgs/common/playing-cover-2.png",
-                    alt: "Playing Cover"
-                })), n.a.createElement("div", {
-                    className: "player-info"
-                }, n.a.createElement("div", {
-                    className: "player-info-title"
-                }, p), n.a.createElement("div", {
-                    className: "player-info-name"
-                }, "NewJeans")), n.a.createElement("div", {
-                    className: "player-buttons"
-                }, n.a.createElement("button", {
-                    className: "btn-play btn-has-effect",
-                    onClick: a
-                }, n.a.createElement("img", {
-                    src: "/imgs/common/btn-play.png",
-                    className: "icon-play",
-                    alt: "\uc7ac\uc0dd"
-                }), n.a.createElement("img", {
-                    src: "/imgs/common/btn-pause.png",
-                    className: "icon-pause",
-                    alt: "\uba48\ucda4"
-                })), n.a.createElement("button", {
-                    className: "btn-next btn-has-effect",
-                    onClick: r
-                }, n.a.createElement("img", {
-                    src: "/imgs/common/btn-next.png",
-                    alt: "\ub2e4\uc74c\uace1 \uc7ac\uc0dd"
-                })))),
-                
-                
-                
-                
-                // CARD
-                n.a.createElement(L.a, {
-                    className: "intro-card-swiper",
-                    spaceBetween: 12,
-                    slidesPerView: 1.1
-                },
-                
-                
-                // CARD LIST START
-                n.a.createElement(L.b, null, n.a.createElement("a", {
-                    href: "https://youtu.be/ZncbtRo7RXs",
-                    target: "_blank",
-                    rel: "noopener noreferrer",
-                    className: "intro-card intro-card--2"
-                },
-                n.a.createElement("div", {
-                    className: "intro-card-thumb"
-                }, n.a.createElement("img", {
-                    src: "/imgs/common/card-thumb-2.jpg",
-                    alt: "How Sweet Thumbanil"
-                })), 
-                n.a.createElement("div", {
-                    className: "intro-card-desc"
-                }, n.a.createElement("p", {
-                    className: "field"
-                }, "New Album"), n.a.createElement("p", {
-                    className: "title"
-                }, "\u2018Supernatural\u2019 \ubc1c\ub9e4!"), n.a.createElement("p", {
-                    className: "text"
-                }, "Perasaanku 2 nsemakin dalam ", n.a.createElement("img", {
-                    src: "/imgs/common/icon-music.svg",
-                    className: "icon-music"
-                }),
-                n.a.createElement("br", null), "\u2018Supernatural\u2019 Music Video \ubcf4\ub7ec \uac00\uae30!")))),
-                // CARD LIST END
-
-                // CARD LIST START
-                n.a.createElement(L.b, null, n.a.createElement("a", {
-                    href: "https://youtu.be/ZncbtRo7RXs",
-                    target: "_blank",
-                    rel: "noopener noreferrer",
-                    className: "intro-card intro-card--2"
-                },
-                n.a.createElement("div", {
-                    className: "intro-card-thumb"
-                }, n.a.createElement("img", {
-                    src: "/imgs/common/card-thumb-2.jpg",
-                    alt: "How Sweet Thumbanil"
-                })), 
-                n.a.createElement("div", {
-                    className: "intro-card-desc"
-                }, n.a.createElement("p", {
-                    className: "field"
-                }, "New Album"), n.a.createElement("p", {
-                    className: "title"
-                }, "\u2018Supernatural\u2019 \ubc1c\ub9e4!"), n.a.createElement("p", {
-                    className: "text"
-                }, "Perasaanku 2 nsemakin dalam ", n.a.createElement("img", {
-                    src: "/imgs/common/icon-music.svg",
-                    className: "icon-music"
-                }),
-                n.a.createElement("br", null), "\u2018Supernatural\u2019 Music Video \ubcf4\ub7ec \uac00\uae30!")))),
-                // CARD LIST END
-                
-                
-            
-            ),
 
 
-                n.a.createElement("div", {
-                    className: "app-buttons"
-                }, n.a.createElement("button", {
-                    type: "button",
-                    className: "btn btn-has-effect",
-                    onClick: () => g(0)
-                }, n.a.createElement("img", {
-                    src: "/imgs/common/app-icon-1.png",
-                    alt: "How Sweet"
-                })), n.a.createElement("button", {
-                    type: "button",
-                    className: "btn btn-has-effect",
-                    onClick: () => g(1)
-                },                 
-                n.a.createElement("img", {
-                    src: "/imgs/common/app-icon-2.png",
-                    alt: "Supernatural"
-                })), n.a.createElement("a", {
-                    href: "https://phoning.onelink.me/KG15/7uhc8jf6",
-                    className: "btn btn-has-effect",
-                    target: "_blank",
-                    rel: "noopener noreferrer"
-                }, n.a.createElement("img", {
-                    src: "/imgs/common/app-icon-3.png",
-                    alt: "Phoning"
-                }), n.a.createElement("img", {
-                    src: "/imgs/common/app-icon-badge.png",
-                    className: "badge",
-                    alt: "Go!"
-                }))), n.a.createElement("div", {
-                    className: "sns-links"
-                }, n.a.createElement("a", {
-                    href: "https://www.youtube.com/c/NewJeans_official",
-                    className: "link",
-                    target: "_blank",
-                    rel: "noopener noreferrer"
-                }, n.a.createElement("img", {
-                    src: "/imgs/common/sns-icon-1.png",
-                    alt: "Youtube"
-                })), n.a.createElement("a", {
-                    href: "https://x.com/NewJeans_ADOR",
-                    className: "link",
-                    target: "_blank",
-                    rel: "noopener noreferrer"
-                }, n.a.createElement("img", {
-                    src: "/imgs/common/sns-icon-2.png",
-                    alt: "X"
-                })), n.a.createElement("a", {
-                    href: "https://www.instagram.com/newjeans_official/",
-                    className: "link",
-                    target: "_blank",
-                    rel: "noopener noreferrer"
-                }, n.a.createElement("img", {
-                    src: "/imgs/common/sns-icon-3.png",
-                    alt: "Instagram"
-                })), n.a.createElement("a", {
-                    href: "https://www.facebook.com/official.newjeans",
-                    className: "link",
-                    target: "_blank",
-                    rel: "noopener noreferrer"
-                }, n.a.createElement("img", {
-                    src: "/imgs/common/sns-icon-4.png",
-                    alt: "Facebook"
-                })), n.a.createElement(b.a, {
-                    className: "privacy-policy",
-                    to: "/agree"
-                }, "\ucfe0\ud0a4\uc0ac\uc6a9\ubc29\uce68")))
+                    // PLAYER
+                    n.a.createElement(n.a.Fragment, null, n.a.createElement("div", {
+                        className: "player"
+                    }, n.a.createElement("div", {
+                        className: "player-thumb"
+                    }, n.a.createElement("img", {
+                        src: "/imgs/common/playing-cover-2.png",
+                        alt: "Playing Cover"
+                    })), n.a.createElement("div", {
+                        className: "player-info"
+                    }, n.a.createElement("div", {
+                        className: "player-info-title"
+                    }, p), n.a.createElement("div", {
+                        className: "player-info-name"
+                    }, "NewJeans")), n.a.createElement("div", {
+                        className: "player-buttons"
+                    }, n.a.createElement("button", {
+                        className: "btn-play btn-has-effect",
+                        onClick: a
+                    }, n.a.createElement("img", {
+                        src: "/imgs/common/btn-play.png",
+                        className: "icon-play",
+                        alt: "\uc7ac\uc0dd"
+                    }), n.a.createElement("img", {
+                        src: "/imgs/common/btn-pause.png",
+                        className: "icon-pause",
+                        alt: "\uba48\ucda4"
+                    })), n.a.createElement("button", {
+                        className: "btn-next btn-has-effect",
+                        onClick: r
+                    }, n.a.createElement("img", {
+                        src: "/imgs/common/btn-next.png",
+                        alt: "\ub2e4\uc74c\uace1 \uc7ac\uc0dd"
+                    })))),
+
+
+
+
+                        // CARD
+                        n.a.createElement(L.a, {
+                            className: "intro-card-swiper",
+                            spaceBetween: 12,
+                            slidesPerView: 1.1
+                        },
+
+
+                            // CARD LIST START
+                            n.a.createElement(L.b, null, n.a.createElement("a", {
+                                href: "https://youtu.be/ZncbtRo7RXs",
+                                target: "_blank",
+                                rel: "noopener noreferrer",
+                                className: "intro-card intro-card--2"
+                            },
+                                n.a.createElement("div", {
+                                    className: "intro-card-thumb"
+                                }, n.a.createElement("img", {
+                                    src: "/imgs/common/card-thumb-2.jpg",
+                                    alt: "How Sweet Thumbanil"
+                                })),
+                                n.a.createElement("div", {
+                                    className: "intro-card-desc"
+                                }, n.a.createElement("p", {
+                                    className: "field"
+                                }, "New Album"), n.a.createElement("p", {
+                                    className: "title"
+                                }, "\u2018Gudang Garam\u2019 \ubc1c\ub9e4!"), n.a.createElement("p", {
+                                    className: "text"
+                                }, "Perasaanku 2 nsemakin dalam ", n.a.createElement("img", {
+                                    src: "/imgs/common/icon-music.svg",
+                                    className: "icon-music"
+                                }),
+                                    n.a.createElement("br", null), "\u2018Supernatural\u2019 Music Video \ubcf4\ub7ec \uac00\uae30!")))),
+                            // CARD LIST END
+
+                            // CARD LIST START
+                            n.a.createElement(L.b, null, n.a.createElement("a", {
+                                href: "https://youtu.be/ZncbtRo7RXs",
+                                target: "_blank",
+                                rel: "noopener noreferrer",
+                                className: "intro-card intro-card--2"
+                            },
+                                n.a.createElement("div", {
+                                    className: "intro-card-thumb"
+                                }, n.a.createElement("img", {
+                                    src: "/imgs/common/card-thumb-2.jpg",
+                                    alt: "How Sweet Thumbanil"
+                                })),
+                                n.a.createElement("div", {
+                                    className: "intro-card-desc"
+                                }, n.a.createElement("p", {
+                                    className: "field"
+                                }, "New Album"), n.a.createElement("p", {
+                                    className: "title"
+                                }, "\u2018Supernatural\u2019 \ubc1c\ub9e4!"), n.a.createElement("p", {
+                                    className: "text"
+                                }, "Perasaanku 2 nsemakin dalam ", n.a.createElement("img", {
+                                    src: "/imgs/common/icon-music.svg",
+                                    className: "icon-music"
+                                }),
+                                    n.a.createElement("br", null), "\u2018Supernatural\u2019 Music Video \ubcf4\ub7ec \uac00\uae30!")))),
+                            // CARD LIST END
+
+
+
+                        ),
+
+
+                        n.a.createElement("div", {
+                            className: "app-buttons"
+                        }, n.a.createElement("button", {
+                            type: "button",
+                            className: "btn btn-has-effect",
+                            onClick: () => g(0)
+                        }, n.a.createElement("img", {
+                            src: "/imgs/common/app-icon-1.png",
+                            alt: "How Sweet"
+                        })), n.a.createElement("button", {
+                            type: "button",
+                            className: "btn btn-has-effect",
+                            onClick: () => g(1)
+                        },
+                            n.a.createElement("img", {
+                                src: "/imgs/common/app-icon-2.png",
+                                alt: "Supernatural"
+                            })), n.a.createElement("a", {
+                                href: "https://phoning.onelink.me/KG15/7uhc8jf6",
+                                className: "btn btn-has-effect",
+                                target: "_blank",
+                                rel: "noopener noreferrer"
+                            }, n.a.createElement("img", {
+                                src: "/imgs/common/app-icon-3.png",
+                                alt: "Phoning"
+                            }), n.a.createElement("img", {
+                                src: "/imgs/common/app-icon-badge.png",
+                                className: "badge",
+                                alt: "Go!"
+                            }))), n.a.createElement("div", {
+                                className: "sns-links"
+                            }, n.a.createElement("a", {
+                                href: "https://www.youtube.com/c/NewJeans_official",
+                                className: "link",
+                                target: "_blank",
+                                rel: "noopener noreferrer"
+                            }, n.a.createElement("img", {
+                                src: "/imgs/common/sns-icon-1.png",
+                                alt: "Youtube"
+                            })), n.a.createElement("a", {
+                                href: "https://x.com/NewJeans_ADOR",
+                                className: "link",
+                                target: "_blank",
+                                rel: "noopener noreferrer"
+                            }, n.a.createElement("img", {
+                                src: "/imgs/common/sns-icon-2.png",
+                                alt: "X"
+                            })), n.a.createElement("a", {
+                                href: "https://www.instagram.com/newjeans_official/",
+                                className: "link",
+                                target: "_blank",
+                                rel: "noopener noreferrer"
+                            }, n.a.createElement("img", {
+                                src: "/imgs/common/sns-icon-3.png",
+                                alt: "Instagram"
+                            })), n.a.createElement("a", {
+                                href: "https://www.facebook.com/official.newjeans",
+                                className: "link",
+                                target: "_blank",
+                                rel: "noopener noreferrer"
+                            }, n.a.createElement("img", {
+                                src: "/imgs/common/sns-icon-4.png",
+                                alt: "Facebook"
+                            })), n.a.createElement(b.a, {
+                                className: "privacy-policy",
+                                to: "/agree"
+                            }, "\ucfe0\ud0a4\uc0ac\uc6a9\ubc29\uce68")))
             };
             var Q = e => {
                 let {
@@ -2069,46 +2069,46 @@
                 }))
             };
             var ae = Object(s.h)(e => {
-                    const {
-                        history: a
-                    } = e;
-                    return Object(l.useEffect)(e => (u.a.send("pageview"), a.listen((e, a) => {
-                        u.a.send("pageview")
-                    }), function() {}), []), n.a.createElement(_, null, n.a.createElement(s.d, null, n.a.createElement(s.b, {
-                        exact: !0,
-                        path: "/login",
-                        render: e => n.a.createElement(j, {
-                            containerClassName: "login"
-                        }, n.a.createElement(H, e))
-                    }), n.a.createElement(x, {
-                        containerClassName: "omg",
-                        history: a,
-                        exact: !0,
-                        path: "/omg/:member/:seq/:id"
-                    }), n.a.createElement(s.b, {
-                        path: "/getup/:id/new",
-                        history: a,
-                        component: C
-                    }), n.a.createElement(s.b, {
-                        path: "/bunniescamp/:id",
-                        history: a,
-                        component: R
-                    }), n.a.createElement(s.b, {
-                        exact: !0,
-                        path: "/agree",
-                        render: e => n.a.createElement(j, {
-                            containerClassName: "cookie-agree"
-                        }, n.a.createElement(F, e))
-                    }), n.a.createElement(s.b, {
-                        exact: !0,
-                        path: "/",
-                        render: e => n.a.createElement(j, {
-                            containerClassName: "home"
-                        }, n.a.createElement(ee, e))
-                    }), n.a.createElement(s.a, {
-                        to: "/"
-                    })))
-                }),
+                const {
+                    history: a
+                } = e;
+                return Object(l.useEffect)(e => (u.a.send("pageview"), a.listen((e, a) => {
+                    u.a.send("pageview")
+                }), function () { }), []), n.a.createElement(_, null, n.a.createElement(s.d, null, n.a.createElement(s.b, {
+                    exact: !0,
+                    path: "/login",
+                    render: e => n.a.createElement(j, {
+                        containerClassName: "login"
+                    }, n.a.createElement(H, e))
+                }), n.a.createElement(x, {
+                    containerClassName: "omg",
+                    history: a,
+                    exact: !0,
+                    path: "/omg/:member/:seq/:id"
+                }), n.a.createElement(s.b, {
+                    path: "/getup/:id/new",
+                    history: a,
+                    component: C
+                }), n.a.createElement(s.b, {
+                    path: "/bunniescamp/:id",
+                    history: a,
+                    component: R
+                }), n.a.createElement(s.b, {
+                    exact: !0,
+                    path: "/agree",
+                    render: e => n.a.createElement(j, {
+                        containerClassName: "cookie-agree"
+                    }, n.a.createElement(F, e))
+                }), n.a.createElement(s.b, {
+                    exact: !0,
+                    path: "/",
+                    render: e => n.a.createElement(j, {
+                        containerClassName: "home"
+                    }, n.a.createElement(ee, e))
+                }), n.a.createElement(s.a, {
+                    to: "/"
+                })))
+            }),
                 te = t(138);
             t(449);
             const le = Object(m.a)(),
@@ -2116,19 +2116,19 @@
                     let e = .01 * window.innerHeight;
                     document.documentElement.style.setProperty("--vh", "".concat(e, "px"))
                 };
-            var re = function() {
+            var re = function () {
                 const [e, a] = Object(l.useState)(!1);
                 return Object(l.useEffect)(e => ((async () => {
                     te.isMobile && a(0 !== window.orientation), "onorientationchange" in window && (console.log("App:onorientationchange"), window.addEventListener("orientationchange", e => {
                         te.isMobile && a(0 !== window.orientation)
                     }, !1))
                 })(), ne(), document.querySelectorAll(".btn-has-effect").forEach(e => {
-                    e.addEventListener("click", (function(a) {
+                    e.addEventListener("click", (function (a) {
                         e.classList.remove("clicked"), e.offsetWidth, e.classList.add("clicked")
                     }))
                 }), window.addEventListener("resize", () => {
                     ne()
-                }), function() {
+                }), function () {
                     window.removeEventListener("orientationchange")
                 }), []), n.a.createElement(s.c, {
                     history: le
@@ -2145,27 +2145,27 @@
                     isShowIntro: !0
                 };
             var ce = Object(oe.combineReducers)({
-                    commonLayout: function() {
-                        let e = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : ue,
-                            a = arguments.length > 1 ? arguments[1] : void 0;
-                        switch (a.type) {
-                            case me:
-                                return {
-                                    ...e, isApp: a.isApp
-                                };
-                            case ie:
-                                return {
-                                    ...e, isMobile: a.isMobile
-                                };
-                            case "common_layout/SET_IS_SHOW_INTRO":
-                                return {
-                                    ...e, isShowIntro: a.isShowIntro
-                                };
-                            default:
-                                return e
-                        }
+                commonLayout: function () {
+                    let e = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : ue,
+                        a = arguments.length > 1 ? arguments[1] : void 0;
+                    switch (a.type) {
+                        case me:
+                            return {
+                                ...e, isApp: a.isApp
+                            };
+                        case ie:
+                            return {
+                                ...e, isMobile: a.isMobile
+                            };
+                        case "common_layout/SET_IS_SHOW_INTRO":
+                            return {
+                                ...e, isShowIntro: a.isShowIntro
+                            };
+                        default:
+                            return e
                     }
-                }),
+                }
+            }),
                 pe = (t(451), t(228)),
                 ge = t(229);
             const _e = Object(m.a)();
@@ -2174,7 +2174,7 @@
                 history: _e
             })];
             const Ne = Object(oe.createStore)(ce, Object(pe.composeWithDevTools)(Object(oe.applyMiddleware)(...be)));
-            console.log = () => {}, console.debug = () => {}, console.info = () => {}, console.warn = () => {}, console.error = () => {}, console.log("prod"), console.log("G-1NZG5LVWG8"), u.a.initialize("G-1NZG5LVWG8"), o.a.render(n.a.createElement(n.a.StrictMode, null, n.a.createElement(se.a, {
+            console.log = () => { }, console.debug = () => { }, console.info = () => { }, console.warn = () => { }, console.error = () => { }, console.log("prod"), console.log("G-1NZG5LVWG8"), u.a.initialize("G-1NZG5LVWG8"), o.a.render(n.a.createElement(n.a.StrictMode, null, n.a.createElement(se.a, {
                 store: Ne
             }, n.a.createElement(re, null))), document.getElementById("root")), "serviceWorker" in navigator && navigator.serviceWorker.ready.then(e => {
                 e.unregister()

@@ -20,3 +20,7 @@
 .new{
   transform: translate(15%, -40%) !important;
 }
+
+.sns-links .privacy-policy {
+  display: none;
+}

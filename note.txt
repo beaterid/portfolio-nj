@@ -1,0 +1,9 @@
+Di VS Code (Local)
+1. Edit isi konten
+2. git add .
+3. git commit -m "isi pesan"
+4. git push
+
+Di Terminal Hosting
+5. cd public_html
+6. git pull https://github.com/beaterid/portfolio-nj.git

@@ -458,9 +458,9 @@
                     className: "footer-group"
                 }, n.a.createElement("p", {
                     className: "copyright"
-                }, "\xa92024 ADOR. All Rights Reserved."), n.a.createElement(b.a, {
+                }, "\xa92024 Rizazil. All Rights Reserved."), n.a.createElement(b.a, {
                     to: "/agree"
-                }, "\ucfe0\ud0a4\uc0ac\uc6a9\ubc29\uce68"))), "cookie-agree" !== a ? n.a.createElement(S, null) : null))))))
+                }, ""))), "cookie-agree" !== a ? n.a.createElement(S, null) : null))))))
             };
             var v = t(222),
                 y = t.n(v);
@@ -700,383 +700,59 @@
             },
                 q = t(27);
             const z = [{
-                url: "/imgs/howsweet/photo/NJ_HowSweet_34.jpg",
-                fileName: "NJ_HowSweet_34"
+                url: "/imgs/portrait/photo/portrait_photo_01.jpg",
+                fileName: "portrait_photo_01"
             }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_35.jpg",
-                fileName: "NJ_HowSweet_35"
+                url: "/imgs/portrait/photo/portrait_photo_02.jpg",
+                fileName: "portrait_photo_02"
             }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_36.jpg",
-                fileName: "NJ_HowSweet_36"
+                url: "/imgs/portrait/photo/portrait_photo_03.jpg",
+                fileName: "portrait_photo_03"
             }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_37.jpg",
-                fileName: "NJ_HowSweet_37"
+                url: "/imgs/portrait/photo/portrait_photo_04.jpg",
+                fileName: "portrait_photo_04"
             }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_38.jpg",
-                fileName: "NJ_HowSweet_38"
+                url: "/imgs/portrait/photo/portrait_photo_05.jpg",
+                fileName: "portrait_photo_05"
             }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_39.jpg",
-                fileName: "NJ_HowSweet_39"
+                url: "/imgs/portrait/photo/portrait_photo_06.jpg",
+                fileName: "portrait_photo_06"
             }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_40.jpg",
-                fileName: "NJ_HowSweet_40"
+                url: "/imgs/portrait/photo/portrait_photo_07.jpg",
+                fileName: "portrait_photo_07"
             }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_41.jpg",
-                fileName: "NJ_HowSweet_41"
+                url: "/imgs/portrait/photo/portrait_photo_08.jpg",
+                fileName: "portrait_photo_08"
             }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_42.jpg",
-                fileName: "NJ_HowSweet_42"
+                url: "/imgs/portrait/photo/portrait_photo_09.jpg",
+                fileName: "portrait_photo_09"
             }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_43.jpg",
-                fileName: "NJ_HowSweet_43"
+                url: "/imgs/portrait/photo/portrait_photo_10.jpg",
+                fileName: "portrait_photo_10"
             }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_44.jpg",
-                fileName: "NJ_HowSweet_44"
+                url: "/imgs/portrait/photo/portrait_photo_11.jpg",
+                fileName: "portrait_photo_11"
             }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_45.jpg",
-                fileName: "NJ_HowSweet_45"
+                url: "/imgs/portrait/photo/portrait_photo_12.jpg",
+                fileName: "portrait_photo_12"
             }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_46.jpg",
-                fileName: "NJ_HowSweet_46"
+                url: "/imgs/portrait/photo/portrait_photo_13.jpg",
+                fileName: "portrait_photo_13"
             }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_47.jpg",
-                fileName: "NJ_HowSweet_47"
+                url: "/imgs/portrait/photo/portrait_photo_14.jpg",
+                fileName: "portrait_photo_14"
             }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_48.jpg",
-                fileName: "NJ_HowSweet_48"
+                url: "/imgs/portrait/photo/portrait_photo_15.jpg",
+                fileName: "portrait_photo_15"
             }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_49.jpg",
-                fileName: "NJ_HowSweet_49"
+                url: "/imgs/portrait/photo/portrait_photo_16.jpg",
+                fileName: "portrait_photo_16"
             }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_50.jpg",
-                fileName: "NJ_HowSweet_50"
+                url: "/imgs/portrait/photo/portrait_photo_17.jpg",
+                fileName: "portrait_photo_17"
             }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_51.jpg",
-                fileName: "NJ_HowSweet_51"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_52.jpg",
-                fileName: "NJ_HowSweet_52"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_53.jpg",
-                fileName: "NJ_HowSweet_53"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_54.jpg",
-                fileName: "NJ_HowSweet_54"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_55.jpg",
-                fileName: "NJ_HowSweet_55"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_56.jpg",
-                fileName: "NJ_HowSweet_56"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_57.jpg",
-                fileName: "NJ_HowSweet_57"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_58.jpg",
-                fileName: "NJ_HowSweet_58"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_59.jpg",
-                fileName: "NJ_HowSweet_59"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_60.jpg",
-                fileName: "NJ_HowSweet_60"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_61.jpg",
-                fileName: "NJ_HowSweet_61"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_01.jpg",
-                fileName: "NJ_BubbleGum_01"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_02.jpg",
-                fileName: "NJ_BubbleGum_02"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_03.jpg",
-                fileName: "NJ_BubbleGum_03"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_04.jpg",
-                fileName: "NJ_BubbleGum_04"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_05.jpg",
-                fileName: "NJ_BubbleGum_05"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_06.jpg",
-                fileName: "NJ_BubbleGum_06"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_07.jpg",
-                fileName: "NJ_BubbleGum_07"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_08.jpg",
-                fileName: "NJ_BubbleGum_08"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_09.jpg",
-                fileName: "NJ_BubbleGum_09"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_10.jpg",
-                fileName: "NJ_BubbleGum_10"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_11.jpg",
-                fileName: "NJ_BubbleGum_11"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_12.jpg",
-                fileName: "NJ_BubbleGum_12"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_13.jpg",
-                fileName: "NJ_BubbleGum_13"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_14.jpg",
-                fileName: "NJ_BubbleGum_14"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_15.jpg",
-                fileName: "NJ_BubbleGum_15"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_16.jpg",
-                fileName: "NJ_BubbleGum_16"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_17.jpg",
-                fileName: "NJ_BubbleGum_17"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_18.jpg",
-                fileName: "NJ_BubbleGum_18"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_19.jpg",
-                fileName: "NJ_BubbleGum_19"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_20.jpg",
-                fileName: "NJ_BubbleGum_20"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_21.jpg",
-                fileName: "NJ_BubbleGum_21"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_22.jpg",
-                fileName: "NJ_BubbleGum_22"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_23.jpg",
-                fileName: "NJ_BubbleGum_23"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_24.jpg",
-                fileName: "NJ_BubbleGum_24"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_25.jpg",
-                fileName: "NJ_BubbleGum_25"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_26.jpg",
-                fileName: "NJ_BubbleGum_26"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_27.jpg",
-                fileName: "NJ_BubbleGum_27"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_28.jpg",
-                fileName: "NJ_BubbleGum_28"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_29.jpg",
-                fileName: "NJ_BubbleGum_29"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_30.jpg",
-                fileName: "NJ_BubbleGum_30"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_31.jpg",
-                fileName: "NJ_BubbleGum_31"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_32.jpg",
-                fileName: "NJ_BubbleGum_32"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_33.jpg",
-                fileName: "NJ_BubbleGum_33"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_34.jpg",
-                fileName: "NJ_BubbleGum_34"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_35.jpg",
-                fileName: "NJ_BubbleGum_35"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_36.jpg",
-                fileName: "NJ_BubbleGum_36"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_37.jpg",
-                fileName: "NJ_BubbleGum_37"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_38.jpg",
-                fileName: "NJ_BubbleGum_38"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_39.jpg",
-                fileName: "NJ_BubbleGum_39"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_40.jpg",
-                fileName: "NJ_BubbleGum_40"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_41.jpg",
-                fileName: "NJ_BubbleGum_41"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_42.jpg",
-                fileName: "NJ_BubbleGum_42"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_43.jpg",
-                fileName: "NJ_BubbleGum_43"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_44.jpg",
-                fileName: "NJ_BubbleGum_44"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_45.jpg",
-                fileName: "NJ_BubbleGum_45"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_46.jpg",
-                fileName: "NJ_BubbleGum_46"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_47.jpg",
-                fileName: "NJ_BubbleGum_47"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_48.jpg",
-                fileName: "NJ_BubbleGum_48"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_49.jpg",
-                fileName: "NJ_BubbleGum_49"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_50.jpg",
-                fileName: "NJ_BubbleGum_50"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_51.jpg",
-                fileName: "NJ_BubbleGum_51"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_52.jpg",
-                fileName: "NJ_BubbleGum_52"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_53.jpg",
-                fileName: "NJ_BubbleGum_53"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_54.jpg",
-                fileName: "NJ_BubbleGum_54"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_55.jpg",
-                fileName: "NJ_BubbleGum_55"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_56.jpg",
-                fileName: "NJ_BubbleGum_56"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_57.jpg",
-                fileName: "NJ_BubbleGum_57"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_58.jpg",
-                fileName: "NJ_BubbleGum_58"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_59.jpg",
-                fileName: "NJ_BubbleGum_59"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_60.jpg",
-                fileName: "NJ_BubbleGum_60"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_61.jpg",
-                fileName: "NJ_BubbleGum_61"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_62.jpg",
-                fileName: "NJ_BubbleGum_62"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_63.jpg",
-                fileName: "NJ_BubbleGum_63"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_64.jpg",
-                fileName: "NJ_BubbleGum_64"
-            }, {
-                url: "/imgs/bubblegum/photo/NJ_BubbleGum_65.jpg",
-                fileName: "NJ_BubbleGum_65"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_01.jpg",
-                fileName: "NJ_HowSweet_01"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_02.jpg",
-                fileName: "NJ_HowSweet_02"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_03.jpg",
-                fileName: "NJ_HowSweet_03"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_04.jpg",
-                fileName: "NJ_HowSweet_04"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_05.jpg",
-                fileName: "NJ_HowSweet_05"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_06.jpg",
-                fileName: "NJ_HowSweet_06"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_07.jpg",
-                fileName: "NJ_HowSweet_07"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_08.jpg",
-                fileName: "NJ_HowSweet_08"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_09.jpg",
-                fileName: "NJ_HowSweet_09"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_10.jpg",
-                fileName: "NJ_HowSweet_10"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_11.jpg",
-                fileName: "NJ_HowSweet_11"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_12.jpg",
-                fileName: "NJ_HowSweet_12"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_13.jpg",
-                fileName: "NJ_HowSweet_13"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_14.jpg",
-                fileName: "NJ_HowSweet_14"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_15.jpg",
-                fileName: "NJ_HowSweet_15"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_16.jpg",
-                fileName: "NJ_HowSweet_16"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_17.jpg",
-                fileName: "NJ_HowSweet_17"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_18.jpg",
-                fileName: "NJ_HowSweet_18"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_19.jpg",
-                fileName: "NJ_HowSweet_19"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_20.jpg",
-                fileName: "NJ_HowSweet_20"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_21.jpg",
-                fileName: "NJ_HowSweet_21"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_22.jpg",
-                fileName: "NJ_HowSweet_22"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_23.jpg",
-                fileName: "NJ_HowSweet_23"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_24.jpg",
-                fileName: "NJ_HowSweet_24"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_25.jpg",
-                fileName: "NJ_HowSweet_25"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_26.jpg",
-                fileName: "NJ_HowSweet_26"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_27.jpg",
-                fileName: "NJ_HowSweet_27"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_28.jpg",
-                fileName: "NJ_HowSweet_28"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_29.jpg",
-                fileName: "NJ_HowSweet_29"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_30.jpg",
-                fileName: "NJ_HowSweet_30"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_31.jpg",
-                fileName: "NJ_HowSweet_31"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_32.jpg",
-                fileName: "NJ_HowSweet_32"
-            }, {
-                url: "/imgs/howsweet/photo/NJ_HowSweet_33.jpg",
-                fileName: "NJ_HowSweet_33"
+                url: "/imgs/portrait/photo/portrait_photo_18.jpg",
+                fileName: "portrait_photo_18"
             }];
             var U = e => {
                 const {
@@ -1143,302 +819,80 @@
                 })))
             };
             const T = [{
-                url: "/imgs/supernatural/photo/NJ_Supernatural_66.jpg",
-                filename: "NJ_Supernatural_66"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_67.jpg",
-                filename: "NJ_Supernatural_67"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_68.jpg",
-                filename: "NJ_Supernatural_68"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_69.jpg",
-                filename: "NJ_Supernatural_69"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_70.jpg",
-                filename: "NJ_Supernatural_70"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_71.jpg",
-                filename: "NJ_Supernatural_71"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_72.jpg",
-                filename: "NJ_Supernatural_72"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_73.jpg",
-                filename: "NJ_Supernatural_73"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_74.jpg",
-                filename: "NJ_Supernatural_74"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_75.jpg",
-                filename: "NJ_Supernatural_75"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_76.jpg",
-                filename: "NJ_Supernatural_76"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_77.jpg",
-                filename: "NJ_Supernatural_77"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_78.jpg",
-                filename: "NJ_Supernatural_78"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_79.jpg",
-                filename: "NJ_Supernatural_79"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_80.jpg",
-                filename: "NJ_Supernatural_80"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_81.jpg",
-                filename: "NJ_Supernatural_81"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_82.jpg",
-                filename: "NJ_Supernatural_82"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_83.jpg",
-                filename: "NJ_Supernatural_83"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_84.jpg",
-                filename: "NJ_Supernatural_84"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_85.jpg",
-                filename: "NJ_Supernatural_85"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_86.jpg",
-                filename: "NJ_Supernatural_86"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_87.jpg",
-                filename: "NJ_Supernatural_87"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_88.jpg",
-                filename: "NJ_Supernatural_88"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_89.jpg",
-                filename: "NJ_Supernatural_89"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_90.jpg",
-                filename: "NJ_Supernatural_90"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_91.jpg",
-                filename: "NJ_Supernatural_91"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_92.jpg",
-                filename: "NJ_Supernatural_92"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_93.jpg",
-                filename: "NJ_Supernatural_93"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_94.jpg",
-                filename: "NJ_Supernatural_94"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_95.jpg",
-                filename: "NJ_Supernatural_95"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_96.jpg",
-                filename: "NJ_Supernatural_96"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_97.jpg",
-                filename: "NJ_Supernatural_97"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_98.jpg",
-                filename: "NJ_Supernatural_98"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_99.jpg",
-                filename: "NJ_Supernatural_99"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_37.jpg",
-                filename: "NJ_Supernatural_37"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_38.jpg",
-                filename: "NJ_Supernatural_38"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_39.jpg",
-                filename: "NJ_Supernatural_39"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_40.jpg",
-                filename: "NJ_Supernatural_40"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_41.jpg",
-                filename: "NJ_Supernatural_41"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_42.jpg",
-                filename: "NJ_Supernatural_42"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_43.jpg",
-                filename: "NJ_Supernatural_43"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_44.jpg",
-                filename: "NJ_Supernatural_44"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_45.jpg",
-                filename: "NJ_Supernatural_45"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_46.jpg",
-                filename: "NJ_Supernatural_46"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_47.jpg",
-                filename: "NJ_Supernatural_47"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_48.jpg",
-                filename: "NJ_Supernatural_48"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_49.jpg",
-                filename: "NJ_Supernatural_49"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_50.jpg",
-                filename: "NJ_Supernatural_50"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_51.jpg",
-                filename: "NJ_Supernatural_51"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_52.jpg",
-                filename: "NJ_Supernatural_52"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_53.jpg",
-                filename: "NJ_Supernatural_53"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_54.jpg",
-                filename: "NJ_Supernatural_54"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_55.jpg",
-                filename: "NJ_Supernatural_55"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_56.jpg",
-                filename: "NJ_Supernatural_56"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_57.jpg",
-                filename: "NJ_Supernatural_57"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_58.jpg",
-                filename: "NJ_Supernatural_58"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_59.jpg",
-                filename: "NJ_Supernatural_59"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_60.jpg",
-                filename: "NJ_Supernatural_60"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_61.jpg",
-                filename: "NJ_Supernatural_61"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_62.jpg",
-                filename: "NJ_Supernatural_62"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_63.jpg",
-                filename: "NJ_Supernatural_63"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_64.jpg",
-                filename: "NJ_Supernatural_64"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_65.jpg",
-                filename: "NJ_Supernatural_65"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_1.jpg",
+                url: "/imgs/stage/photo/stage_photo_01.jpg",
                 fileName: "NJ_Supernatural_1"
             }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_2.jpg",
+                url: "/imgs/stage/photo/stage_photo_02.jpg",
                 fileName: "NJ_Supernatural_2"
             }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_3.jpg",
+                url: "/imgs/stage/photo/stage_photo_03.jpg",
                 fileName: "NJ_Supernatural_3"
             }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_4.jpg",
+                url: "/imgs/stage/photo/stage_photo_04.jpg",
                 fileName: "NJ_Supernatural_4"
             }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_5.jpg",
+                url: "/imgs/stage/photo/stage_photo_05.jpg",
                 fileName: "NJ_Supernatural_5"
             }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_6.jpg",
+                url: "/imgs/stage/photo/stage_photo_06.jpg",
                 fileName: "NJ_Supernatural_6"
             }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_7.jpg",
+                url: "/imgs/stage/photo/stage_photo_07.jpg",
                 fileName: "NJ_Supernatural_7"
             }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_8.jpg",
+                url: "/imgs/stage/photo/stage_photo_08.jpg",
                 fileName: "NJ_Supernatural_8"
             }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_9.jpg",
+                url: "/imgs/stage/photo/stage_photo_09.jpg",
                 fileName: "NJ_Supernatural_9"
             }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_10.jpg",
+                url: "/imgs/stage/photo/stage_photo_10.jpg",
                 fileName: "NJ_Supernatural_10"
             }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_11.jpg",
+                url: "/imgs/stage/photo/stage_photo_11.jpg",
                 fileName: "NJ_Supernatural_11"
             }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_12.jpg",
+                url: "/imgs/stage/photo/stage_photo_12.jpg",
                 fileName: "NJ_Supernatural_12"
             }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_13.jpg",
+                url: "/imgs/stage/photo/stage_photo_13.jpg",
                 fileName: "NJ_Supernatural_13"
             }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_14.jpg",
+                url: "/imgs/stage/photo/stage_photo_14.jpg",
                 fileName: "NJ_Supernatural_14"
             }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_15.jpg",
+                url: "/imgs/stage/photo/stage_photo_15.jpg",
                 fileName: "NJ_Supernatural_15"
             }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_16.jpg",
+                url: "/imgs/stage/photo/stage_photo_16.jpg",
                 fileName: "NJ_Supernatural_16"
             }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_17.jpg",
+                url: "/imgs/stage/photo/stage_photo_17.jpg",
                 fileName: "NJ_Supernatural_17"
             }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_18.jpg",
+                url: "/imgs/stage/photo/stage_photo_18.jpg",
                 fileName: "NJ_Supernatural_18"
             }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_19.jpg",
+                url: "/imgs/stage/photo/stage_photo_19.jpg",
                 fileName: "NJ_Supernatural_19"
             }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_20.jpg",
+                url: "/imgs/stage/photo/stage_photo_20.jpg",
                 fileName: "NJ_Supernatural_20"
             }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_21.jpg",
+                url: "/imgs/stage/photo/stage_photo_21.jpg",
                 fileName: "NJ_Supernatural_21"
             }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_22.jpg",
+                url: "/imgs/stage/photo/stage_photo_22.jpg",
                 fileName: "NJ_Supernatural_22"
             }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_23.jpg",
+                url: "/imgs/stage/photo/stage_photo_23.jpg",
                 fileName: "NJ_Supernatural_23"
             }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_24.jpg",
+                url: "/imgs/stage/photo/stage_photo_24.jpg",
                 fileName: "NJ_Supernatural_24"
             }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_25.jpg",
+                url: "/imgs/stage/photo/stage_photo_25.jpg",
                 fileName: "NJ_Supernatural_25"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_26.jpg",
-                fileName: "NJ_Supernatural_26"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_27.jpg",
-                fileName: "NJ_Supernatural_27"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_28.jpg",
-                fileName: "NJ_Supernatural_28"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_29.jpg",
-                fileName: "NJ_Supernatural_29"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_30.jpg",
-                fileName: "NJ_Supernatural_30"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_31.jpg",
-                fileName: "NJ_Supernatural_31"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_32.jpg",
-                fileName: "NJ_Supernatural_32"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_33.jpg",
-                fileName: "NJ_Supernatural_33"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_34.jpg",
-                fileName: "NJ_Supernatural_34"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_35.jpg",
-                fileName: "NJ_Supernatural_35"
-            }, {
-                url: "/imgs/supernatural/photo/NJ_Supernatural_36.jpg",
-                fileName: "NJ_Supernatural_36"
             }];
             var V = e => {
                 const {
@@ -1616,10 +1070,9 @@
                             slidesPerView: 1.1
                         },
 
-
                             // CARD LIST START
                             n.a.createElement(L.b, null, n.a.createElement("a", {
-                                href: "https://youtu.be/ZncbtRo7RXs",
+                                href: "https://www.youtube.com/watch?v=9TydF3QgbYw",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 className: "intro-card intro-card--2"
@@ -1627,27 +1080,27 @@
                                 n.a.createElement("div", {
                                     className: "intro-card-thumb"
                                 }, n.a.createElement("img", {
-                                    src: "/imgs/common/card-thumb-2.jpg",
-                                    alt: "How Sweet Thumbanil"
+                                    src: "/imgs/common/thumb-yt-harvoid-bandung.jpg",
+                                    alt: "Harvoid Bandung Thumbanil"
                                 })),
                                 n.a.createElement("div", {
                                     className: "intro-card-desc"
                                 }, n.a.createElement("p", {
                                     className: "field"
-                                }, "New Album"), n.a.createElement("p", {
+                                }, "Video"), n.a.createElement("p", {
                                     className: "title"
-                                }, "\u2018Diasku\u2019 \ubc1c\ub9e4!"), n.a.createElement("p", {
+                                }, "\u2018Cinematic Vlog\u2019"), n.a.createElement("p", {
                                     className: "text"
-                                }, "Perasaanku 2 nsemakin dalam ", n.a.createElement("img", {
+                                }, "Simple beauty, silent strength that speaks.", n.a.createElement("img", {
                                     src: "/imgs/common/icon-music.svg",
                                     className: "icon-music"
                                 }),
-                                    n.a.createElement("br", null), "\u2018Supernatural\u2019 Music Video \ubcf4\ub7ec \uac00\uae30!")))),
+                                )))),
                             // CARD LIST END
 
                             // CARD LIST START
                             n.a.createElement(L.b, null, n.a.createElement("a", {
-                                href: "https://youtu.be/ZncbtRo7RXs",
+                                href: "https://www.youtube.com/watch?v=zmVGOrXuHFs",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 className: "intro-card intro-card--2"
@@ -1655,22 +1108,78 @@
                                 n.a.createElement("div", {
                                     className: "intro-card-thumb"
                                 }, n.a.createElement("img", {
-                                    src: "/imgs/common/card-thumb-2.jpg",
-                                    alt: "How Sweet Thumbanil"
+                                    src: "/imgs/common/thumb-yt-rapal.jpg",
+                                    alt: "Short Movie Rapal Thumbanil"
                                 })),
                                 n.a.createElement("div", {
                                     className: "intro-card-desc"
                                 }, n.a.createElement("p", {
                                     className: "field"
-                                }, "New Album"), n.a.createElement("p", {
+                                }, "Video"), n.a.createElement("p", {
                                     className: "title"
-                                }, "\u2018Supernatural\u2019 \ubc1c\ub9e4!"), n.a.createElement("p", {
+                                }, "\u2018One Minute Film Festival\u2019"), n.a.createElement("p", {
                                     className: "text"
-                                }, "Perasaanku 2 nsemakin dalam ", n.a.createElement("img", {
+                                }, "First Short Movie 'Rapal' A One Minute Short Movie.", n.a.createElement("img", {
                                     src: "/imgs/common/icon-music.svg",
                                     className: "icon-music"
                                 }),
-                                    n.a.createElement("br", null), "\u2018Supernatural\u2019 Music Video \ubcf4\ub7ec \uac00\uae30!")))),
+                                )))),
+                            // CARD LIST END
+
+                            // CARD LIST START
+                            n.a.createElement(L.b, null, n.a.createElement("a", {
+                                href: "https://www.behance.net/rizazil",
+                                target: "_blank",
+                                rel: "noopener noreferrer",
+                                className: "intro-card intro-card--2"
+                            },
+                                n.a.createElement("div", {
+                                    className: "intro-card-thumb"
+                                }, n.a.createElement("img", {
+                                    src: "/imgs/common/card-thumb-behance.jpg",
+                                    alt: "Behance Thumbanil"
+                                })),
+                                n.a.createElement("div", {
+                                    className: "intro-card-desc"
+                                }, n.a.createElement("p", {
+                                    className: "field"
+                                }, "Design"), n.a.createElement("p", {
+                                    className: "title"
+                                }, "\u2018Behance\u2019"), n.a.createElement("p", {
+                                    className: "text"
+                                }, "This is my portfolio or project with full documentation process. ", n.a.createElement("img", {
+                                    src: "/imgs/common/icon-music.svg",
+                                    className: "icon-music"
+                                }),
+                                )))),
+                            // CARD LIST END
+
+                            // CARD LIST START
+                            n.a.createElement(L.b, null, n.a.createElement("a", {
+                                href: "https://dribbble.com/Rizazil",
+                                target: "_blank",
+                                rel: "noopener noreferrer",
+                                className: "intro-card intro-card--2"
+                            },
+                                n.a.createElement("div", {
+                                    className: "intro-card-thumb"
+                                }, n.a.createElement("img", {
+                                    src: "/imgs/common/card-thumb-dribbble.jpg",
+                                    alt: "Dribbble Thumbanil"
+                                })),
+                                n.a.createElement("div", {
+                                    className: "intro-card-desc"
+                                }, n.a.createElement("p", {
+                                    className: "field"
+                                }, "Design"), n.a.createElement("p", {
+                                    className: "title"
+                                }, "\u2018dribbble\u2019"), n.a.createElement("p", {
+                                    className: "text"
+                                }, "Creative from Dribbble: illustrations, UI/UX, branding, and more!", n.a.createElement("img", {
+                                    src: "/imgs/common/icon-music.svg",
+                                    className: "icon-music"
+                                }),
+                                )))),
                             // CARD LIST END
 
 
@@ -1687,6 +1196,10 @@
                         }, n.a.createElement("img", {
                             src: "/imgs/common/app-icon-1.png",
                             alt: "How Sweet"
+                        }), n.a.createElement("img", {
+                            src: "/imgs/common/app-icon-badge-new.png",
+                            className: "badge new",
+                            alt: "NEW!"
                         })), n.a.createElement("button", {
                             type: "button",
                             className: "btn btn-has-effect",
@@ -1695,8 +1208,12 @@
                             n.a.createElement("img", {
                                 src: "/imgs/common/app-icon-2.png",
                                 alt: "Supernatural"
+                            }), n.a.createElement("img", {
+                                src: "/imgs/common/app-icon-badge-new.png",
+                                className: "badge new",
+                                alt: "NEW!"
                             })), n.a.createElement("a", {
-                                href: "https://phoning.onelink.me/KG15/7uhc8jf6",
+                                href: "https://cv.rizazil.com",
                                 className: "btn btn-has-effect",
                                 target: "_blank",
                                 rel: "noopener noreferrer"
@@ -1706,27 +1223,11 @@
                             }), n.a.createElement("img", {
                                 src: "/imgs/common/app-icon-badge.png",
                                 className: "badge",
-                                alt: "Go!"
+                                alt: "CV!"
                             }))), n.a.createElement("div", {
                                 className: "sns-links"
                             }, n.a.createElement("a", {
-                                href: "https://www.youtube.com/c/NewJeans_official",
-                                className: "link",
-                                target: "_blank",
-                                rel: "noopener noreferrer"
-                            }, n.a.createElement("img", {
-                                src: "/imgs/common/sns-icon-1.png",
-                                alt: "Youtube"
-                            })), n.a.createElement("a", {
-                                href: "https://x.com/NewJeans_ADOR",
-                                className: "link",
-                                target: "_blank",
-                                rel: "noopener noreferrer"
-                            }, n.a.createElement("img", {
-                                src: "/imgs/common/sns-icon-2.png",
-                                alt: "X"
-                            })), n.a.createElement("a", {
-                                href: "https://www.instagram.com/newjeans_official/",
+                                href: "https://www.instagram.com/rizazil/",
                                 className: "link",
                                 target: "_blank",
                                 rel: "noopener noreferrer"
@@ -1734,13 +1235,21 @@
                                 src: "/imgs/common/sns-icon-3.png",
                                 alt: "Instagram"
                             })), n.a.createElement("a", {
-                                href: "https://www.facebook.com/official.newjeans",
+                                href: "https://www.tiktok.com/@rizazil",
                                 className: "link",
                                 target: "_blank",
                                 rel: "noopener noreferrer"
                             }, n.a.createElement("img", {
-                                src: "/imgs/common/sns-icon-4.png",
-                                alt: "Facebook"
+                                src: "/imgs/common/sns-icon-2.png",
+                                alt: "X"
+                            })), n.a.createElement("a", {
+                                href: "https://www.youtube.com/@dawndream-std",
+                                className: "link",
+                                target: "_blank",
+                                rel: "noopener noreferrer"
+                            }, n.a.createElement("img", {
+                                src: "/imgs/common/sns-icon-1.png",
+                                alt: "Youtube"
                             })), n.a.createElement(b.a, {
                                 className: "privacy-policy",
                                 to: "/agree"

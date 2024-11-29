@@ -11,8 +11,9 @@ a {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #000 url(/imgs/common/main-bg-text.png) top 10px center/100%
+  background: #000 url(/imgs/common/main-bg-gd-black.jpg) top center/100%
     no-repeat;
+    background-size: cover;
 }
 .content * {
   box-sizing: border-box;

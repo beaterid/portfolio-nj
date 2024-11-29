@@ -8,17 +8,11 @@
   .swiper {
     height: 476px;
   }
-  .body{
-    background-color: black;
-  }
 }
 
 @media only screen and (max-device-width: 480px) {
   .swiper {
     height: 423px;
-  }
-  .body{
-    background-color: black;
   }
 }
 

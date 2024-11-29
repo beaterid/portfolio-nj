@@ -502,7 +502,7 @@ a {
 }
 @media (max-width: 768px) {
   .app-buttons {
-    margin-top: 24px;
+    margin-top: 50px;
   }
 }
 .app-buttons .btn {

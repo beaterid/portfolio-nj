@@ -22,5 +22,5 @@
 }
 
 .sns-links .privacy-policy {
-  display: none;
+  display: none !important;
 }

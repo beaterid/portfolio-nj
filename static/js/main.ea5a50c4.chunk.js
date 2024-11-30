@@ -1549,9 +1549,9 @@
                     isPlaying: r,
                     onPlayPause: a,
                     videos: {
-                        beauty: ["/videos/bs/BS_001(in).mp4", "/videos/bs/BS_002.mp4", "/videos/bs/BS_003.mp4", "/videos/bs/BS_004.mp4", "/videos/bs/BS_005.mp4", "/videos/bs/BS_006(out).mp4"],
-                        marketing: ["/videos/ms/MS_001(in).mp4", "/videos/ms/MS_002.mp4", "/videos/ms/MS_003.mp4", "/videos/ms/MS_004.mp4", "/videos/ms/MS_005.mp4", "/videos/ms/MS_006(out).mp4"],
-                        event: ["/videos/es/ES_001(in).mp4", "/videos/es/ES_002.mp4", "/videos/es/ES_003.mp4", "/videos/es/ES_004.mp4", "/videos/es/ES_005.mp4", "/videos/es/ES_006(out).mp4"],
+                        beauty: ["/videos/bs/BS_01(in).mp4", "/videos/bs/BS_02.mp4", "/videos/bs/BS_03.mp4", "/videos/bs/BS_04.mp4", "/videos/bs/BS_05.mp4", "/videos/bs/BS_06(out).mp4"],
+                        marketing: ["/videos/ms/MS_01(in).mp4", "/videos/ms/MS_02.mp4", "/videos/ms/MS_03.mp4", "/videos/ms/MS_04.mp4", "/videos/ms/MS_05.mp4", "/videos/ms/MS_06(out).mp4"],
+                        event: ["/videos/es/ES_01(in).mp4", "/videos/es/ES_02.mp4", "/videos/es/ES_03.mp4", "/videos/es/ES_04.mp4", "/videos/es/ES_05.mp4", "/videos/es/ES_06(out).mp4"],
                         hanni: ["/videos/hanni/HN_001(in).mp4", "/videos/hanni/HN_002(walk).mp4", "/videos/hanni/HN_003(jump).mp4", "/videos/hanni/HN_004(dance).mp4", "/videos/hanni/HN_005(pose).mp4", "/videos/hanni/HN_006(out).mp4"],
                         minji: ["/videos/minji/MJ_001(in).mp4", "/videos/minji/MJ_002(walk).mp4", "/videos/minji/MJ_003(jump).mp4", "/videos/minji/MJ_004(dance).mp4", "/videos/minji/MJ_005(pose).mp4", "/videos/minji/MJ_006(out).mp4"]
                     },

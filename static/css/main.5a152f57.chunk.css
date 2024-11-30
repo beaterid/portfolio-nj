@@ -618,7 +618,7 @@ a {
     height: 100%;
   }
   .video-container video {
-    height: auto;
+    /*height: auto;*/
   }
 }
 .video-buttons {

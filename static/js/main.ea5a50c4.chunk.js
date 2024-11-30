@@ -1087,14 +1087,11 @@
                                     className: "intro-card-desc"
                                 }, n.a.createElement("p", {
                                     className: "field"
-                                }, "Video"), n.a.createElement("p", {
+                                }, "Youtube"), n.a.createElement("p", {
                                     className: "title"
                                 }, "\u2018Cinematic Vlog\u2019"), n.a.createElement("p", {
                                     className: "text"
-                                }, "Simple beauty, silent strength that speaks.", n.a.createElement("img", {
-                                    src: "/imgs/common/icon-music.svg",
-                                    className: "icon-music"
-                                }),
+                                }, "Simple beauty, silent strength that speaks.",
                                 )))),
                             // CARD LIST END
 
@@ -1115,15 +1112,42 @@
                                     className: "intro-card-desc"
                                 }, n.a.createElement("p", {
                                     className: "field"
-                                }, "Video"), n.a.createElement("p", {
+                                }, "Youtube"), n.a.createElement("p", {
                                     className: "title"
                                 }, "\u2018One Minute Film Festival\u2019"), n.a.createElement("p", {
                                     className: "text"
-                                }, "First Short Movie 'Rapal' A One Minute Short Movie.", n.a.createElement("img", {
-                                    src: "/imgs/common/icon-music.svg",
-                                    className: "icon-music"
-                                }),
+                                }, "First Short Movie 'Rapal' A One Minute Short Movie.",
                                 )))),
+                            // CARD LIST END
+
+                            // CARD LIST START
+                            n.a.createElement(L.b, null, n.a.createElement("div", {
+                                className: "intro-card", onClick: () => s(!o)
+                            },
+                                n.a.createElement("div", {
+                                    className: "intro-card-thumb"
+                                },
+                                    n.a.createElement("img", {
+                                        src: "/imgs/common/thumb-showreel.jpg",
+                                        alt: "How Sweet Thumbanil"
+                                    })),
+                                n.a.createElement("div", {
+                                    className: "intro-card-desc"
+                                },
+                                    n.a.createElement("p", {
+                                        className: "field"
+                                    }, "New Video"),
+                                    n.a.createElement("p", {
+                                        className: "title"
+                                    }, "Showreel, Works!",
+                                        n.a.createElement("img", {
+                                            className: "icon",
+                                            src: "/imgs/common/film-reel.png",
+                                            alt: "Candy Icon"
+                                        })), n.a.createElement("p", {
+                                            className: "text"
+                                        }, "A showcase of cinematic creativity and captivating visuals.",
+                                        )))),
                             // CARD LIST END
 
                             // CARD LIST START
@@ -1147,10 +1171,7 @@
                                     className: "title"
                                 }, "\u2018Behance\u2019"), n.a.createElement("p", {
                                     className: "text"
-                                }, "This is my portfolio or project with full documentation process. ", n.a.createElement("img", {
-                                    src: "/imgs/common/icon-music.svg",
-                                    className: "icon-music"
-                                }),
+                                }, "This is my portfolio or project with full documentation process. ",
                                 )))),
                             // CARD LIST END
 
@@ -1173,16 +1194,11 @@
                                     className: "field"
                                 }, "Design"), n.a.createElement("p", {
                                     className: "title"
-                                }, "\u2018dribbble\u2019"), n.a.createElement("p", {
+                                }, "\u2018Dribbble\u2019"), n.a.createElement("p", {
                                     className: "text"
-                                }, "Creative from Dribbble: illustrations, UI/UX, branding, and more!", n.a.createElement("img", {
-                                    src: "/imgs/common/icon-music.svg",
-                                    className: "icon-music"
-                                }),
+                                }, "Creative from Dribbble: illustrations, UI/UX, branding, and more!",
                                 )))),
                             // CARD LIST END
-
-
 
                         ),
 
@@ -1339,26 +1355,26 @@
                     className: "member-list"
                 }, n.a.createElement("div", {
                     className: "item",
-                    onClick: () => g("hyein")
+                    onClick: () => g("beauty")
                 }, n.a.createElement("img", {
-                    src: "/imgs/common/hyein.png",
-                    alt: "Hyein"
+                    src: "/imgs/common/bs-cover.png",
+                    alt: "Beauty Cover"
                 })), n.a.createElement("div", {
                     className: "item",
-                    onClick: () => g("haerin")
+                    onClick: () => g("marketing")
                 }, n.a.createElement("img", {
-                    src: "/imgs/common/haerin.png",
-                    alt: "Haerin"
+                    src: "/imgs/common/ms-cover.png",
+                    alt: "Marketing Cover"
                 })), n.a.createElement("div", {
                     className: "item",
-                    onClick: () => g("danielle")
+                    onClick: () => g("event")
                 }, n.a.createElement("img", {
-                    src: "/imgs/common/danielle.png",
-                    alt: "Danielle"
-                })), n.a.createElement("div", {
+                    src: "/imgs/common/es-cover.png",
+                    alt: "Event Cover"
+                }))/*, n.a.createElement("div", {
                     className: "item",
                     onClick: () => g("hanni")
-                }, n.a.createElement("img", {
+                },n.a.createElement("img", {
                     src: "/imgs/common/hanni.png",
                     alt: "Hanni"
                 })), n.a.createElement("div", {
@@ -1367,7 +1383,7 @@
                 }, n.a.createElement("img", {
                     src: "/imgs/common/minji.png",
                     alt: "Minji"
-                }))))
+                }))*/))
             };
             var X = e => {
                 let {
@@ -1423,41 +1439,41 @@
                     className: "btn",
                     onClick: () => f(1)
                 }, n.a.createElement("img", {
-                    src: "/imgs/common/video-icon-1.png",
-                    alt: "walk"
+                    src: "/imgs/common/one.png",
+                    alt: "video 1"
                 })), n.a.createElement("button", {
                     type: "button",
                     className: "btn",
                     onClick: () => f(2)
                 }, n.a.createElement("img", {
-                    src: "/imgs/common/video-icon-2.png",
-                    alt: "jump"
+                    src: "/imgs/common/two.png",
+                    alt: "video 2"
                 })), n.a.createElement("button", {
                     type: "button",
                     className: "btn",
                     onClick: () => f(3)
                 }, n.a.createElement("img", {
-                    src: "/imgs/common/video-icon-3.png",
-                    alt: "dance"
+                    src: "/imgs/common/three.png",
+                    alt: "video 3"
                 })), n.a.createElement("button", {
                     type: "button",
                     className: "btn",
                     onClick: () => f(4)
                 }, n.a.createElement("img", {
-                    src: "/imgs/common/video-icon-4.png",
-                    alt: "pose"
+                    src: "/imgs/common/four.png",
+                    alt: "video 4"
                 })), n.a.createElement("button", {
                     type: "button",
                     className: "btn",
                     onClick: () => f(5)
                 }, n.a.createElement("img", {
-                    src: "/imgs/common/video-icon-5.png",
+                    src: "/imgs/common/logout.png",
                     alt: "out"
                 }))), N && n.a.createElement("div", {
                     className: "message-popup"
                 }, n.a.createElement("p", {
                     className: "title"
-                }, "\ud63c\uc790 \ubcf4\uae30 \uc544\uae5d\ub2e4\uba74", n.a.createElement("br", null), "\uce5c\uad6c\ub4e4\uc5d0\uac8c\ub3c4 \uc54c\ub824\uc8fc\uc138\uc694!"), n.a.createElement("p", {
+                }, "Already planning to leave?", n.a.createElement("br", null), "Watch another one, okay!"), n.a.createElement("p", {
                     className: "text"
                 }, "Share a link!"), n.a.createElement("div", {
                     className: "message-popup-btn-wrap"
@@ -1466,18 +1482,18 @@
                     onClick: () => {
                         h(!1), t(!0), o(!1), p(!1)
                     }
-                }, "\ub3cc\uc544\uac00\uae30", n.a.createElement("span", null, "New Video")), n.a.createElement("button", {
+                }, "", n.a.createElement("span", null, "Other Video")), n.a.createElement("button", {
                     className: "btn",
                     onClick: () => {
                         navigator.clipboard.writeText(window.location.href).then(() => {
                             h(!1), d(!0), setTimeout(() => d(!1), 1500)
                         })
                     }
-                }, "\uacf5\uc720\ud558\uae30", n.a.createElement("span", null, "Share")))), w && n.a.createElement("div", {
+                }, "", n.a.createElement("span", null, "Copy Link")))), w && n.a.createElement("div", {
                     className: "toast-message"
                 }, n.a.createElement("p", {
                     className: "title"
-                }, "\ub9c1\ud06c\uac00 \ubcf5\uc0ac\ub418\uc5c8\uc2b5\ub2c8\ub2e4."), n.a.createElement("p", {
+                }, "+100000 Aura"), n.a.createElement("p", {
                     className: "text"
                 }, "Link Copied.")))
             };
@@ -1533,9 +1549,9 @@
                     isPlaying: r,
                     onPlayPause: a,
                     videos: {
-                        hyein: ["/videos/hyein/HI_001(in).mp4", "/videos/hyein/HI_002(walk).mp4", "/videos/hyein/HI_003(jump).mp4", "/videos/hyein/HI_004(dance).mp4", "/videos/hyein/HI_005(pose).mp4", "/videos/hyein/HI_006(out).mp4"],
-                        haerin: ["/videos/haerin/HR_001(in).mp4", "/videos/haerin/HR_002(walk).mp4", "/videos/haerin/HR_003(jump).mp4", "/videos/haerin/HR_004(dance).mp4", "/videos/haerin/HR_005(pose).mp4", "/videos/haerin/HR_006(out).mp4"],
-                        danielle: ["/videos/danielle/DN_001(in).mp4", "/videos/danielle/DN_002(walk).mp4", "/videos/danielle/DN_003(jump).mp4", "/videos/danielle/DN_004(dance).mp4", "/videos/danielle/DN_005(pose).mp4", "/videos/danielle/DN_006(out).mp4"],
+                        beauty: ["/videos/bs/BS_001(in).mp4", "/videos/bs/BS_002.mp4", "/videos/bs/BS_003.mp4", "/videos/bs/BS_004.mp4", "/videos/bs/BS_005.mp4", "/videos/bs/BS_006(out).mp4"],
+                        marketing: ["/videos/ms/MS_001(in).mp4", "/videos/ms/MS_002.mp4", "/videos/ms/MS_003.mp4", "/videos/ms/MS_004.mp4", "/videos/ms/MS_005.mp4", "/videos/ms/MS_006(out).mp4"],
+                        event: ["/videos/es/ES_001(in).mp4", "/videos/es/ES_002.mp4", "/videos/es/ES_003.mp4", "/videos/es/ES_004.mp4", "/videos/es/ES_005.mp4", "/videos/es/ES_006(out).mp4"],
                         hanni: ["/videos/hanni/HN_001(in).mp4", "/videos/hanni/HN_002(walk).mp4", "/videos/hanni/HN_003(jump).mp4", "/videos/hanni/HN_004(dance).mp4", "/videos/hanni/HN_005(pose).mp4", "/videos/hanni/HN_006(out).mp4"],
                         minji: ["/videos/minji/MJ_001(in).mp4", "/videos/minji/MJ_002(walk).mp4", "/videos/minji/MJ_003(jump).mp4", "/videos/minji/MJ_004(dance).mp4", "/videos/minji/MJ_005(pose).mp4", "/videos/minji/MJ_006(out).mp4"]
                     },

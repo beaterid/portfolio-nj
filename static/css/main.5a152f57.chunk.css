@@ -653,11 +653,11 @@ a {
   left: 50%;
   transform: translate(-50%, -50%);
   width: 100%;
-  max-width: 72%;
+  max-width: 75%;
   text-align: center;
   background-color: #fff;
   border-radius: 20px;
-  padding: 20px;
+  padding: 15px;
   z-index: 3;
 }
 .message-popup .title {
